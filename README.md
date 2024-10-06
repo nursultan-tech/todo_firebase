@@ -3,10 +3,21 @@
 A new Flutter project.
 
 ## Getting Started
+Features<br>
+User authentication (sign up, sign in, and sign out)<br>
+Create, read, update, and delete tasks<br>
+Persistent data storage using Firebase Firestore<br>
+Intuitive and user-friendly interface<br>
+Responsive design for various screen sizes<br>
+Technologies Used<br>
+Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.<br>
+Firebase: A platform developed by Google for creating mobile and web applications. It provides services such as authentication, cloud storage, and real-time databases.<br>
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application.<br>
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started if this is your first Flutter project:<br>
+
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
