@@ -17,7 +17,7 @@ This project is a starting point for a Flutter application.<br>
 
 A few resources to get you started if this is your first Flutter project:<br>
 
-<img src="screenshots/Screenshot_2024-10-06-19-30-18-273_com.example.untitled2_new" alt="" width="300"/>
+<img src="screenshots/Screenshot_2024-10-06-19-30-18-273_com.example.untitled2_new.jpg" alt="" width="300"/>
 
 
 
